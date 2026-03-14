@@ -1,4 +1,4 @@
-# EvoAgent 🧬
+# EvoAgent
 
 > A self-evolving neural agent that **reads and modifies its own weights** to improve — without backpropagation.
 

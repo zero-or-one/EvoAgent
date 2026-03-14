@@ -37,4 +37,3 @@ Thumbs.db
 
 # Project outputs
 *.json
-!examples/*.json
